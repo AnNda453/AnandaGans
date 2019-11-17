@@ -1,0 +1,16 @@
+Scriptnya BANG
+
+$ apt update
+$ apt upgrade
+note : Jika Ad Perintah (y/n) pilih y oke
+$ pkg install php
+$ pkg install git
+$ pkg install toilet
+$ git clone https://github.com/4L13199/LITESPAM
+$ cd LITESPAM/
+$ sh LITESPAM.sh
+
+JIKA SUDAH KAMU INSTALL SILAHKAN PILIH TOOLS YANG ANDA INGINKAN UNTUK BOM SMS NYA YAH
+
+JANGAN LUPA LIKE SHARE SUBSCRIBE MY CHANEL IRFAN PERMANA
+ 
